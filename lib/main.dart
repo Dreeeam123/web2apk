@@ -6,8 +6,8 @@ import 'package:webview_flutter/webview_flutter.dart';
 
 void main() => runApp(MyApp());
 
-var appName = "MyAppName";
-var url = "https://www.example.org/";
+var appName = "KI Muskelaufbau";
+var url = "https://v0-ki-muskelaufbau-app.vercel.app/";
 var appColor = Colors.blue;
 
 class MyApp extends StatelessWidget {
